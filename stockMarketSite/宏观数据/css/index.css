@@ -24,7 +24,7 @@ body{
     font-size: 36px;
     color: #00ffff;
     text-align: center;
-    background: url(../bg.png) top center no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/O-Aiden/cdn@1.8/stockMarketSite/宏观数据/图片/bg.png) top center no-repeat;
 }
 .header a.a-access{
   position: absolute;
