@@ -90,7 +90,7 @@
                 show:true,
     
                 right:'15%',
-                y:"0",
+                y:"20",
                 textStyle:{
                     color:"#999",
                     fontSize:'13'
